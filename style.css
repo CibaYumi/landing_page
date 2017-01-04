@@ -12,8 +12,8 @@ a{
     height: 170px;
 }
 
-.container{
-  background: url(img/banner2.png);
+.banner img{
+  width: 100%;
 }
 
 .logo{
