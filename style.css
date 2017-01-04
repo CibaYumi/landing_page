@@ -37,16 +37,15 @@ a{
 
 .menu ul li{
   float: left;
-  padding: 57px 14px;
+  padding: 70px 14px;
 }
 
-.banner{
-}
-
-.banner img{
+.titulo{
+  text-align: center;
+  margin-top: 0px 10px;
 }
 
 .footer{
   background-color: #A17766;
-  height: 150px;
+  height: 200px;
 }
