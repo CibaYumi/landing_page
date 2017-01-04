@@ -1,41 +1,52 @@
 body{
   background-color: #63B59D;
-  width: 760px;
-}
-
-nav{
-  background-color: white;
+  width: auto;
+  margin: auto;
 }
 
 a{
   text-decoration: none;
 }
 
-footer{
-  background-color: #A17766;
-  height: 150px;
+.header{
+    height: 170px;
+}
+
+.container{
+  background: url(img/banner2.png);
+}
+
+.logo{
+  float: left;
 }
 
 .logo img{
-  width: 90px;
+  width: 178px;
+}
+
+.menu{
+  float: right;
+  height: 168px;
 }
 
 .menu ul{
   list-style-type: none;
-  float: right;
   font-family: Arial;
   font-size: 13px;
-  padding-top: 10px;
 }
 
 .menu ul li{
   float: left;
-  padding: 0px 7px;
+  padding: 57px 14px;
 }
 
 .banner{
 }
 
 .banner img{
-  width: 100%;
+}
+
+.footer{
+  background-color: #A17766;
+  height: 150px;
 }
