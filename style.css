@@ -28,13 +28,34 @@ a{
 
 .menu ul{
   list-style-type: none;
-  font-family: Arial;
+  font-family: 'Lemonada', cursive;
   font-size: 13px;
+  background-color: #A4C1B9;
+  list-style: none;
+  text-align: center;
 }
 
 .menu ul li{
   float: left;
-  padding: 70px 14px;
+  padding: 70px 17px;
+}
+
+.menu ul li a{
+  padding: 0px 1px;
+
+  /* visual do link no menu */
+  background-color: #A4C1B9;
+  color: #683324;
+  font-size: medium;
+  text-decoration: none;
+  border-bottom: 3px #A4C1B9 solid
+}
+
+.menu ul li a:hover{
+  background-color: #D6D6D6;
+  color: #6D6D6D;
+  border-bottom: 3px #0C3E4F solid;
+  padding: 2px 10px;
 }
 
 .banner img{
@@ -43,6 +64,7 @@ a{
 
 .content{
   background-color: #A4C1B9;
+  font-family: 'Nunito', sans-serif;
 }
 
 .img img{
