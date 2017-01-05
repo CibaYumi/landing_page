@@ -10,10 +10,7 @@ a{
 
 .header{
     height: 170px;
-}
-
-.banner img{
-  width: 100%;
+    background-color: #A4C1B9;
 }
 
 .logo{
@@ -40,12 +37,32 @@ a{
   padding: 70px 14px;
 }
 
-.titulo{
-  text-align: center;
-  margin-top: 0px 10px;
+.banner img{
+  width: 100%;
+}
+
+.content{
+  background-color: #A4C1B9;
+}
+
+.img img{
+  width: 416px;
+  height: 390px;
+  margin-top: 21px;
+  margin-left: -19px;
 }
 
 .footer{
   background-color: #A17766;
-  height: 200px;
+  height: 461px;
+  padding-top: 6px;
+}
+
+.titulo{
+  padding-left: 79px;
+  margin-top: 0px 10px;
+}
+
+.button{
+  text-align: center;
 }
