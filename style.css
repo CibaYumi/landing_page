@@ -1,5 +1,5 @@
 body{
-  background-color: #63B59D;
+  /*background-color: #63B59D;*/
   width: auto;
   margin: auto;
 }
@@ -17,9 +17,9 @@ a{
   float: left;
 }
 
-.logo img{
+/*.logo img{
   width: 178px;
-}
+}*/
 
 .menu{
   float: right;
@@ -46,7 +46,7 @@ a{
   /* visual do link no menu */
   background-color: #A4C1B9;
   color: #683324;
-  font-size: medium;
+  font-size: 20px;
   text-decoration: none;
   border-bottom: 3px #A4C1B9 solid
 }
